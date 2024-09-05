@@ -1,0 +1,126 @@
+﻿img.ImgBannerTePaga {
+    max-width: 750px;
+    width: 100%;
+    padding: 0px 50px;
+    position: relative;
+    top: 65px;
+}
+
+img.imgBennerUniteAlClub {
+    max-width: 417px;
+    width: 100%;
+    padding: 0px 50px;
+}
+
+.GreenBar {
+    width: 100%;
+    background-color: #00a060;
+    height: 8px;
+}
+
+.LightGreenBar {
+    width: 100%;
+    background-color: #8cc640;
+    height: 8px;
+}
+
+.pt-30 {
+    padding-top: 30px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+a.TePagaBtn {
+    background-color: #00a261;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.VerticalCenter {
+    vertical-align: middle;
+}
+
+
+
+@media (min-width: 992px){
+	.table-md {
+	    display: table;
+	}
+
+
+	.table-md > div {
+		display: table-cell;
+	    float: inherit;
+	}
+	
+	.NoMarginDesktop{
+		margin:0;
+	}
+	
+}
+
+@media (max-width: 992px){
+	.text-center-mobile {
+		text-align:center;
+	}
+	
+}
+
+
+.table {
+	    display: table;
+}
+
+
+.table > div {
+		display: table-cell;
+	    float: inherit;
+}
+
+
+
+img.imagenClass {
+    max-width: 100%;
+}
+
+
+
+@media (min-width: 1250px){
+	 
+	img.ImgBannerTePaga {
+	    max-width: 750px;
+	    width: 100%;
+	    padding: 0px 50px;
+	    padding-top: 20px;
+	}
+}
+
+
+
+.ItemsTePagaImg img {
+    max-width: 330px;
+    margin: auto;
+}
+
+.ItemsTePagaImg {
+    text-align: center;
+}
+ 
+
+.ItemsTePagaImg b {
+    width: 100%!important;
+    display: inline-block;
+}
+
+
+
+

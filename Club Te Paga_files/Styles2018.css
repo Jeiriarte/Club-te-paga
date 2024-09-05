@@ -1,0 +1,153 @@
+﻿#extra-menu button {
+    background-color: #f7954a!important;
+}
+
+#extra-menu button:hover {
+    border-color: #f7954a!important;
+}
+
+
+#homeLink .homeIcon {
+    color: #f7954a;
+}
+
+
+
+.searchprovider .tit-prov {
+    background: #f7954a;
+}
+
+#kitten-box .box {
+    background: #a3cd39;
+}
+
+#menuList > li:nth-child(2)  .megamenu > ul > li:hover {
+    background-color: #16b04c;
+}
+
+#menuList > li:nth-child(3)  .megamenu > ul > li:hover {
+    background-color: #f7954a;
+}
+
+
+
+.link-list02 li.title:hover {
+    background-color: transparent!important;;
+}
+
+
+
+#proveedoresMob .panel-default>.panel-heading {
+    background-color: #f7954a;
+}
+
+
+
+@media (min-width: 780px){
+	div#social-section {
+	    width: 400px;
+	}
+	
+		
+	.col-md-7.col-sm-7.col-xs-12.TopRightp {
+	    width: 636px;
+	}
+
+}
+
+@media (min-width: 780px) and  (max-width: 1055px){
+	.col-md-7.col-sm-7.col-xs-12.TopRightp {
+	    width: 526px;
+	}	
+}
+
+@media (max-width: 1055px) and (min-width: 780px){
+	.wsmenu02-list li a {
+	    white-space: nowrap !important;
+	    padding-left: 4px !important;
+	    padding-right: 4px !important;
+	}
+
+}
+
+a.McsVivela {
+    padding-left: 12px;
+}
+
+
+
+a.McsVivelaMobileLogo img {
+    width: 160px;
+    padding-top: 15px;
+    padding-right: 10px;
+}
+
+
+#footer_col2 > h3:nth-child(3) {
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Slider hardCode*/
+
+ .flexslider li .category {
+    margin-top: 0px;
+    padding: 0px 0px 0px;
+}
+
+
+ 
+@media (max-width: 1150px){
+ 
+
+
+}
+
+@media (max-width: 1030px){
+	
+
+
+}
+
+@media screen and (max-width: 860px){
+	
+}
+
+@media (max-width: 780px){
+
+	
+
+	
+}
+
+
+
+
+/*END Slider hardCode*/
+
+.pt-50 {
+    padding-top: 50px;
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+

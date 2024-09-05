@@ -1,0 +1,870 @@
+﻿.footer-2 {
+    background-color: #00a160!important;
+
+}
+
+.footer-3 {
+    display: none;
+}
+
+#footer-2 div#disclaimerImg {
+    display: none;
+}
+
+
+.Footer2content.left {
+    float: left;
+}
+
+.Footer2content.right {
+     display: -webkit-flex; /* Safari */
+    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    display: flex;   
+    flex-wrap: wrap;
+}
+
+.Footer2content.separador {
+    padding: 0px 7px;
+}
+
+#footer-2 br {
+    display: none;
+}
+
+.footer-2 {
+    padding: 20px 0px 20px 0px;
+}
+
+div#footer_SubText {
+    display: none;
+}
+
+.footer-1 {
+ 
+    padding: 30px 0px 30px 0px;
+}
+
+.NumeracionesTitle {
+    text-align: center;
+    font-weight: 800;
+    color: #00a160;
+    font-size: 2em;
+}
+
+.BannerTopImage > div.ms-rtestate-field > div > img {
+    width: 100%;
+}
+
+.col-md-12.BannerTopBody.GreyBody {
+    background-color: #f9f9f9;
+}
+
+.GreyBodyTextContainer{
+	width: 1120px;
+    text-align: center;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.captionImgBannerTop {
+    color: #000;
+    font-weight: 700;
+    top: -110px;
+    position: relative;
+    height: 0px;
+}
+
+.captionImgBannerTop > div.ms-rtestate-field > p{
+	color: #000;
+	font-size: 3em;
+}
+
+.logoSize {
+    width: 115px!important;
+    margin-top: 4px;
+}
+
+.tooltip {
+    pointer-events: none!important;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#contactForm.forms {
+    overflow: visible!important;
+}
+
+@media only screen and (max-width: 780px) {
+	.logoSize {
+	    width: 72px!important;
+	     margin-top: 0px;
+	}
+}
+
+.captionImgBannerTop > div.ms-rtestate-field > p {
+    width: 1120px;
+    margin: auto;
+}
+
+.CenterContentInResponsive {
+    width: 1120px;
+    margin: auto;
+}
+
+
+.BannerTopImage > div.ms-rtestate-field > div > img {
+    width: 100%;
+    max-height: 400px;
+    min-height: 350px;
+}
+
+
+.TextImageSimpleBanner {
+    position: relative;
+    height: 0px;
+    top: 140px;
+}
+
+.TextImageSimpleBanner {
+    position:  relative;
+    height:  0px;
+    top: 150px;
+}
+
+.TitleImgSimpleBanner {
+    color:  #000;
+    font-size: 2.5em;
+    font-weight:  900;
+    text-align: left;
+}
+
+.CaptionImgBannerTop {margin-top: 10px;}
+
+.CaptionImgBannerTop > div.ms-rtestate-field > p {
+    color:  #000;
+    font-weight: 400;
+    text-align: left;
+}
+
+.SimpleBanner.WhiteBody {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.GreenBody {
+    background-color: #80b000;
+    color: #FFF;
+}
+
+.SliderTitle {
+    color: #00a160;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 900;
+    padding: 15px 0px;
+}
+
+.GreenBackground {
+    background-color: #80bd00;
+    color: #FFF;
+   padding: 15px 0px;
+}
+
+.TitleBannerVerde{
+    color: #00a160;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 900;
+    padding: 15px 0px;
+}
+
+.ms-rtestate-field.PageTitle {
+    text-align: center;
+}
+
+.zoomsearch {
+    float: right;
+   padding-top: 12px;
+}
+
+.font-button {
+    color: #00a160;
+    background: transparent;
+    border: none;
+    padding: 0;
+    font-family: Arial,sans-serif;
+    background: #fff!important;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    color: #6e6f71!important;
+    text-align: center;
+    line-height: 26px;
+    font-size: 11pt;
+    cursor: pointer;
+    border: 1px solid #6e6f71;
+    border-radius: 5px;
+    overflow: hidden;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.pb-20 {
+    padding-bottom: 20px !important;
+}
+
+#footer_col4 > ul > div.dark-text > div > div {
+    color: #00a160;
+    font-weight: 900;
+    padding-top: 3px;
+}
+
+#footer_col4 > ul > div:nth-child(3) > div:nth-child(1) {
+    padding-left: 0px;
+}
+
+#footer_col4 > ul > div:nth-child(3) > div:nth-child(1) > p {
+    color: #00a160;
+}
+
+div#social-section {
+    width: 23%;
+}
+
+.col-md-7.col-sm-7.col-xs-12.TopRightp {
+    width: 76%;
+}
+
+.submenu_topmenu li.btn.btn-primary.btn-sm.btn-block.m-0.light-text {
+    margin: 10px 0px!important;
+}
+
+ul#topMenu_item1_list {
+    right: -74px;
+        top: 50px;
+}
+
+div#ButtonAMenuTitle {
+    text-align: center;
+    font-weight: 700;
+    color: #00a160;
+    font-size: 1.3em;
+}
+
+#extra-menu a:hover:before, #extra-menu a:focus:before, #ContactButtonA:before, #extra-menu a:before {
+    height: 0px!important;
+    background: #00a160;;
+}
+
+.container.mothersandbabies > .green-box-container {
+    margin-bottom: 0px;
+}
+
+
+#topMenu_item1_list .menuContact a {
+    width: 100%;
+    display: block;
+    color: #797979;
+    font-size: 16px;
+}
+
+#topMenu_item1_list > li:nth-child(1) > h6 {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#topMenu_item1_list > li:nth-child(1) > h6 > div > a:nth-child(2) {
+    padding-top: 12px;
+}
+
+.back-gastos a {
+    color: #FFF;
+}
+
+
+.ms-srch-result .ms-srch-result-personalResult {
+    display: none;
+}
+
+.ms-srch-hover-subTitle {
+    display:  none;
+}
+
+.ms-srch-hover-body .ms-srch-hover-text {
+    display:  none;
+}
+
+.ms-srch-hover-actions > div:nth-child(2) {
+    display:  none;
+}
+
+.ms-srch-hover-actions > div:nth-child(3) {
+    display:  none;
+}
+
+
+/* img con acordion */
+#ctl00_ctl77_g_97af5ed9_2350_48a9_8dfc_07f287b356a9 {
+    position: relative;
+}
+
+#ctl00_ctl77_g_97af5ed9_2350_48a9_8dfc_07f287b356a9 .accordion {
+    width: 80%;
+    position: relative;
+}
+
+#ctl00_ctl77_g_97af5ed9_2350_48a9_8dfc_07f287b356a9 .accordion::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 30%;
+    min-height: 600px;
+    right: -30%;
+    top: 10%;
+    background-image: url(/Style%20Library/MCS/images/Corporate/Content/img/img-mamas-planifica.png);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: center;
+}
+
+.container.titleTableBienestar {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.TableShowOnlyInResponsive {
+    display: none;
+}
+
+
+.box-content.EquipoGerencial {
+    background-color: #f4f4f4;
+    padding:  28px;
+    overflow:  auto;
+}
+
+.Img-Mail {
+    width:  76px;
+    float: left;
+    padding-top: 10px;
+}
+
+.TextEquipoGerencialrrhh {
+    text-align:  left;
+    float:  left;
+    width:  312px;
+    padding-left: 30px;
+}
+
+.ImgPersonGerencialRRhh {
+    float:  right;
+}
+
+.ImgPersonGerencialRRhh > img {
+    width: 145px;
+    position: absolute;
+    right: 52px;
+    bottom: 22px;
+}
+
+
+.col-md-4.ContactoParaMediosLabel {
+    padding-left:  0px;
+    text-align: left;
+        padding-right: 25px;
+}
+
+h2.text-black.bold {}
+
+.TextEquipoGerencialrrhh > h2.greentext.bold {
+    padding-top:  0px;
+    margin-top:  0px;
+    color: #000!important;
+    margin-bottom: 3px;
+}
+
+.TextEquipoGerencialrrhh > .btn.triangle-btn.text-black {
+    text-align:  left;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: #5a5a5a!important;
+    padding-top:  0px;
+    margin-top:  0px;
+    padding:  0px;
+    padding-bottom: 6px;
+}
+
+.col-md-4.ContactoParaMediosLabel {
+    padding-top: 42px;
+}
+
+.container.rhhsectionGer {
+    padding-top: 26px;
+}
+
+.col-md-4.ContactoParaMediosLabel {
+    padding-right: 62px;
+}
+
+.container-fluid.greyBckgrnd0.mt-60.CeoProfileBackground {
+    margin-bottom: 45px;
+    background-image: url("/Style Library/MCS/images/Corporate/Content/img/back-biografias.png");
+    background-size: cover;
+}
+
+.CeoProfileBackground h3.text-bold {
+    font-size: 2em;
+    color: #00a160;
+    font-weight: 900;
+}
+
+.TextEquipoPerfil {
+    text-align: center;
+}
+
+.TextEquipoPerfil .btn.triangle-btn.text-black {
+    font-size: 1.2em;
+        padding-bottom: 18px;
+            width: 100%;
+    white-space: inherit;
+        
+}
+
+a.BotonPerfilGerencial {
+    outline: none;
+    background-position: top right !important;
+    background-repeat: no-repeat !important;
+    box-shadow: none;
+    padding: 5px 15px;
+    border: none;
+    text-decoration: none !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    letter-spacing: 2px;
+    position: relative;
+    background: url(/Style%20Library/Images/rtopgr.png);
+    color: #414141 !important;
+}
+
+a.BotonPerfilGerencial:after{
+    content: '';
+    width: 110px;
+    height: 3px;
+    background: #fff;
+    position: absolute;
+    bottom: 1px;
+    left: 50%;
+    margin-left: -56px;
+    transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    background: #00a160 !important;
+    color: #414141 !important;
+}
+
+.rhhsectionGer.ProfileSectionButton .box-content.EquipoGerencial {
+    padding-bottom: 42px;
+}
+
+h2.managementTeam {
+    font-size: 3em;
+}
+
+a#sharePIN {
+    display: none;
+}
+
+@media (max-width: 1200px) {
+
+	h2.managementTeam {
+	    font-size: 3em;
+	    margin-top: 47px;
+	}
+
+
+}
+
+@media (max-width: 767px) {
+
+	h2.managementTeam {
+	    font-size: 1.9em;
+	    margin-top: 44px;
+	}
+
+
+	.col-md-4.ContactoParaMediosLabel {
+	    padding-right: 0px;
+		text-align: center;
+	    padding-top: 5px;
+	    padding-bottom: 18px;
+	}
+
+
+
+    #ctl00_ctl77_g_97af5ed9_2350_48a9_8dfc_07f287b356a9 .accordion {
+        width: 100%;
+    }
+
+    #ctl00_ctl77_g_97af5ed9_2350_48a9_8dfc_07f287b356a9 .accordion::after {
+        display: none;
+    }
+}
+
+@media (max-width: 640px){
+	.mini-section .mini-section-bar{
+		display: flex;
+		min-height: 100px;
+	}
+	.mini-section .mini-section-bar .mini-section-img{
+		position: absolute !important;
+		opacity: .6;
+	}
+	.mini-section .mini-section-bar .mini-section-title {
+		margin: auto 15px !important;
+		width: 50%
+	}
+}  
+
+@media (max-width: 550px) {
+
+	h2.managementTeam {
+        font-size: 1.9em;
+    	margin-top: 24px;
+    }
+
+
+}
+
+
+@media (max-width: 400px) {
+
+	h2.managementTeam {
+        font-size: 1.7em;
+    	margin-top: 24px;
+    }
+
+
+}
+
+@media (max-width: 357px) {
+
+	h2.managementTeam {
+        font-size: 1.7em;
+    	margin-top: 10px;
+    }
+
+
+}
+
+
+@media (max-width: 660px) {
+
+
+	.ImgPersonGerencialRRhh > img {
+	    width: 170px;
+	    position: relative;
+	    top: 28px;
+	    right: 0px;
+	}
+
+	.ImgPersonGerencialRRhh {
+	    float: none;
+	    text-align: center;
+	    /* width: 100%; */
+	}
+	
+	.TextEquipoGerencialrrhh {
+	    width: 314px;
+	}
+	.ImgPersonGerencialRRhh > img {
+	    width: 145px;
+	    position: relative;
+	    right: 0px;
+	    top: 28px;
+	    text-align: center;
+	}
+
+	.ImgPersonGerencialRRhh {
+	    float: none;
+	    text-align: center;
+	}
+
+}
+
+@media (max-width: 500px) {
+	.TextEquipoGerencialrrhh {
+	    width: 100%;
+	        padding-left: 0px;
+	}
+	
+	.Img-Mail {
+	    width: auto;
+	    float: none;
+	    text-align: center;
+	    padding-bottom: 26px;
+	}
+	
+	.TextEquipoGerencialrrhh > .btn.triangle-btn.text-black {
+	    padding-top: 0px;
+	    margin-top: 0px;
+	    padding: 0px;
+	    width: 100%;
+	    position: static;
+	    float: none;
+	    white-space: inherit;
+	}
+	
+	
+	
+}
+
+
+@media (min-width: 780px){
+	#ConectarMovileSection{
+		display: none!important;
+	}
+
+}
+
+
+
+@media (min-width: 992px){
+	div#footer_col1, div#footer_col2, div#footer_col3 {
+	    width: 19%;
+	}
+
+	div#footer_col4 {width: 61%;}	
+
+}
+
+@media (min-width: 780px) and (max-width: 992px) {
+
+	div#footer_col1, div#footer_col2 {
+	        width: 50%;
+	}
+
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .Footer2content.right {
+	    float: none;
+	       display: block;
+	    text-align: center;
+	}
+	
+	.Footer2content.left {
+	    float: none;
+	    text-align: center;
+	    padding-bottom: 12px;
+	}
+	
+	.Footer2content.separador {
+	    display: inline;
+	}
+	
+	.GreyBodyTextContainer{
+		width: 912px;
+	    text-align: center;
+	    margin: auto;
+	}
+	
+	.CenterContentInResponsive{
+		width: 912px;
+	}
+
+	.captionImgBannerTop > div.ms-rtestate-field > p {
+	    width: 912px;
+	    margin: auto;
+	}
+
+}
+
+@media only screen and (max-width: 992px) {
+	.GreyBodyTextContainer{
+		width: 690px;
+	    text-align: center;
+	    margin: auto;
+	}
+	
+	.CenterContentInResponsive{
+		width: 690px;
+	}
+	
+	.captionImgBannerTop > div.ms-rtestate-field > p {
+	    width: 690px;
+	    margin: auto;
+	}
+
+}
+
+@media only screen and (max-width: 780px) {
+	.GreyBodyTextContainer{
+		width: 100%;
+	    text-align: center;
+	    margin: auto;
+	    padding: 0px 18px;
+	}
+	
+	.CenterContentInResponsive{
+		width: 100%;
+	    margin: auto;
+	    padding: 0px 18px;
+	}
+	
+	
+	.captionImgBannerTop > div.ms-rtestate-field > p {
+	    width: 100%;
+	    padding: 0px 18px;
+	}
+	
+	.col-md-7.col-sm-7.col-xs-12.TopRightp {
+     	width: 100%;
+	}
+	
+	li#ContactButton {
+	    display: none;
+	}
+	
+	div#social-section {
+	    width: 100%;
+	}
+	
+	.TableShowOnlyInResponsive {
+	    display: inline-block;
+	    padding-right: 10px;
+	    color: #00a161;
+	    font-weight: 800;
+	}
+	
+	.HideInResponsive{
+		display:none!important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.green-box-container > .col-xs-12 {
+	    padding: 0;
+	}
+	
+	section.container.mothersandbabies {
+	    padding-left: 5px;
+	    padding-right: 5px;
+	}
+
+}
+
+
+@media only screen and (max-width: 500px) {
+
+	.BannerTopImage > div.ms-rtestate-field > div > img{
+		max-height: 400px;
+	    min-height: 200px;
+	}
+	   
+	.TextImageSimpleBanner {
+    	top: 90px;
+	}
+
+}
+
+@media only screen and (max-width: 420px) {
+	.es a#download_button.BigButton {
+	    width: 100%;
+	    height: 79px;
+	    display: block;
+	    white-space: inherit;
+	}
+
+}
+
+@media only screen and (max-width: 410px) {
+
+	.es a#download_button.infeccionesrespiratorias {
+	    width: 100%;
+	    height: 79px;
+	    display: block;
+	    white-space: inherit;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 370px) {
+
+	.BannerTopImage > div.ms-rtestate-field > div > img{
+		max-height: 400px;
+	    min-height: 200px;
+	}
+	   
+	.TextImageSimpleBanner {
+    	top: 55px;
+	}
+	
+	.en a#download_button.BigButton {
+	    width: 100%;
+	    height: 79px;
+	    display: block;
+	    white-space: inherit;
+	}
+	
+	
+
+}
+
+@media only screen and (max-width: 366px) {
+	.en a#download_button.infeccionesrespiratorias {
+	    width: 100%;
+	    height: 79px;
+	    display: block;
+	    white-space: inherit;
+	}
+
+}
+
+@media only screen and (max-width: 340px) {
+
+	.es a#download_button.infeccionesrespiratorias{
+	    height: 108px;
+	}
+
+}
+
+@media only screen and (max-width: 302px) {
+
+	.es a#download_button.BigButton{
+	    height: 108px;
+	}
+
+}
+
+
+@media only screen and (max-width: 281px) {
+
+	.en a#download_button.infeccionesrespiratorias{
+	    height: 108px;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 286px) {
+
+	.en a#download_button.BigButton{
+	    height: 108px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
